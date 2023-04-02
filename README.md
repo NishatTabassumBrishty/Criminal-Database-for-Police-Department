@@ -5,4 +5,4 @@ This project is developed using My SQL, PHP, HTML and CSS. The functionalities o
 3. The user can also search for a criminal's picture using the image name.
 4. If the searched image does not exist then it shows "no image found".
 
-Demo video of this project: https://drive.google.com/drive/u/2/folders/1ebny6NuXuq76sQD0OGbUU0HFcDjSFoiS
+Demo video of this project: https://drive.google.com/file/d/1LLh7OegFigxy-0mR0jGD4F12_oIHHs5B/view?usp=share_link
